@@ -1,0 +1,22 @@
+2022-08-18T14:58:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\DataRegenerator.php on line 12
+
+2022-08-18T15:03:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 96
+
+2022-08-18T15:23:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductSKU.php on line 7
+
+2022-08-18T15:23:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\includes\admin\settings\class-wc-settings-advanced.php on line 13
+
+2022-08-18T15:36:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-18T17:03:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woo-stripe-payment\vendor\stripe\stripe-php\lib\HttpClient\CurlClient.php on line 298
+
+2022-08-18T17:58:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\src\Admin\API\Leaderboards.php on line 10
+
+2022-08-18T17:58:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-18T18:04:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woo-stripe-payment\vendor\stripe\stripe-php\lib\Exception\ApiErrorException.php on line 8
+
+2022-08-18T19:27:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\functions.php on line 6661
+
+2022-08-18T19:33:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+

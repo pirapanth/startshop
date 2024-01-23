@@ -1,0 +1,134 @@
+2022-08-15T07:01:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-15T07:01:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-15T07:15:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-15T07:16:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\themes\astra\inc\customizer\configurations\builder\footer\class-astra-customizer-footer-menu-configs.php on line 13
+
+2022-08-15T07:16:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-15T07:16:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\includes\admin\settings\class-wc-settings-payment-gateways.php on line 14
+
+2022-08-15T07:16:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\includes\admin\settings\class-wc-settings-shipping.php on line 13
+
+2022-08-15T07:16:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-15T07:16:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php on line 14
+
+2022-08-15T07:46:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php on line 15
+
+2022-08-15T09:19:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-v2-controller.php on line 19
+
+2022-08-15T09:19:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\classes\class-ast-block-templates-sync-library-wp-cli.php on line 12
+
+2022-08-15T09:19:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\themes\astra\inc\compatibility\learndash\class-astra-learndash.php on line 10
+
+2022-08-15T09:22:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\src\Internal\Admin\WCAdminAssets.php on line 124
+
+2022-08-15T09:22:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\src\Internal\Admin\WCAdminAssets.php on line 124
+
+2022-08-15T09:22:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\wpforms-lite\src\Tasks\Task.php on line 10
+
+2022-08-15T09:22:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\elementor\includes\elements\section.php on line 4
+
+2022-08-15T09:23:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Purchase.php on line 13
+
+2022-08-15T10:00:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\themes\astra\inc\addons\transparent-header\classes\dynamic-css\dynamic.css.php on line 8
+
+2022-08-15T10:00:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\themes\astra\inc\customizer\configurations\builder\class-astra-builder-base-configuration.php on line 9
+
+2022-08-15T10:50:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-15T10:52:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\astra-sites\inc\classes\compatibility\learndash\class-astra-sites-compatibility-learndash.php on line 12
+
+2022-08-15T10:55:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-admin\includes\image.php on line 25
+
+2022-08-15T10:55:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-admin\includes\image.php on line 25
+
+2022-08-15T10:55:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-admin\includes\image.php on line 25
+
+2022-08-15T10:55:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 10
+
+2022-08-15T11:09:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\themes\astra\inc\builder\type\header\site-identity\class-astra-header-site-identity-component-loader.php on line 12
+
+2022-08-15T11:09:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\themes\astra\inc\compatibility\class-astra-beaver-builder.php on line 9
+
+2022-08-15T11:09:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\themes\astra\inc\compatibility\class-astra-beaver-builder.php on line 9
+
+2022-08-15T17:02:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\elementor\core\files\assets\files-upload-handler.php on line 9
+
+2022-08-15T17:03:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ReviewsByProduct.php on line 7
+
+2022-08-15T17:22:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\src\Internal\Admin\WCPayPromotion\WCPayPromotionDataSourcePoller.php on line 9
+
+2022-08-15T17:22:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\includes\class-wc-checkout.php on line 16
+
+2022-08-15T18:56:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\SimplePie\Parser.php on line 297
+
+2022-08-15T18:57:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\elementor\includes\autoloader.php on line 265
+
+2022-08-15T19:04:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\src\Admin\API\OnboardingThemes.php on line 12
+
+2022-08-15T19:05:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\functions.php on line 6633
+
+2022-08-15T19:07:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\elementor\includes\autoloader.php on line 265
+
+2022-08-15T19:08:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\astra-sites\inc\importers\wxr-importer\class-wp-importer-logger-serversentevents.php on line 14
+
+2022-08-15T19:08:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-15T19:08:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-15T19:09:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-tabs.php on line 8
+
+2022-08-15T19:09:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\functions.php on line 3023
+
+2022-08-15T19:09:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woo-cart-abandonment-recovery\modules\cart-abandonment\classes\class-cartflows-ca-module-loader.php on line 8
+
+2022-08-15T19:10:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-15T19:10:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\themes\astra\inc\customizer\configurations\layout\class-astra-blog-single-layout-configs.php on line 12
+
+2022-08-15T19:10:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\themes\astra\inc\addons\transparent-header\classes\sections\class-astra-customizer-transparent-header-configs.php on line 13
+
+2022-08-15T19:39:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-08-15T20:14:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\FeaturedItem.php on line 10
+
+2022-08-15T20:17:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-admin\admin-header.php on line 9
+
+2022-08-15T20:18:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-admin\admin-footer.php on line 10
+
+2022-08-15T20:38:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-15T20:40:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\functions.php on line 4528
+
+2022-08-15T20:40:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\wp-db.php on line 2169
+
+2022-08-15T21:07:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\elementor\core\common\modules\connect\apps\common-app.php on line 4
+
+2022-08-15T21:07:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\blocks.php on line 252
+
+2022-08-15T21:08:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woo-stripe-payment\vendor\stripe\stripe-php\lib\HttpClient\CurlClient.php on line 298
+
+2022-08-15T21:10:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\assets\script-loader-packages.php on line 1
+
+2022-08-15T21:10:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\functions.php on line 4540
+
+2022-08-15T21:10:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\wpforms-lite\includes\fields\class-textarea.php on line 8
+
+2022-08-15T21:17:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php on line 825
+
+2022-08-15T21:17:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woo-stripe-payment\vendor\stripe\stripe-php\lib\HttpClient\CurlClient.php on line 298
+
+2022-08-15T21:17:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 9
+
+2022-08-15T21:18:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-includes\functions.php on line 651
+
+2022-08-15T21:18:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\woo-stripe-payment\vendor\stripe\stripe-php\lib\HttpClient\CurlClient.php on line 298
+
+2022-08-15T21:20:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\elementor\core\kits\documents\tabs\theme-style-images.php on line 10
+
+2022-08-15T21:22:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\starshop\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1798
+
